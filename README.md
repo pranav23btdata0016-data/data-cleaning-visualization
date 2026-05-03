@@ -1,36 +1,22 @@
-# data-cleaning-visualization
-Data Cleaning and Visualization project using Python, Pandas, and Matplotlib to preprocess raw data and extract meaningful insights.
-
 # Data Cleaning & Visualization Project
 
+## Overview
+Performed data cleaning and exploratory data analysis on a retail dataset using Python.
+
 ## Tools Used
+- Pandas
+- Matplotlib
+- Seaborn
+- Google Colab
 
-* Python
-* Pandas
-* Matplotlib
-* Seaborn
-* Google Colab
-
-## Project Overview
-
-This project involves cleaning and analyzing a retail dataset to uncover business insights using data visualization techniques.
-
-## Steps Performed
-
-* Data loading and preprocessing
-* Handling missing values and duplicates
-* Outlier detection
-* Exploratory Data Analysis (EDA)
-* Visualization of key metrics
+## Key Work Done
+- Checked for missing values and duplicates
+- Converted date columns
+- Created new features (Month, Year)
+- Performed outlier analysis
+- Built visualizations
 
 ## Key Insights
-
-* Technology category generates highest sales and profit
-* High discounts lead to reduced profitability
-* Sales peak during end-of-year months
-* Regional sales are relatively balanced
-
-## Conclusion
-
-The project highlights how raw data can be transformed into actionable insights through proper analysis and visualization.
-
+- Technology category has highest sales and profit
+- High discounts lead to losses
+- Sales peak in November–December
